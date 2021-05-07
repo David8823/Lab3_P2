@@ -1,0 +1,5 @@
+-Se debe crear una carpeta llamada aplicacion afuera 
+de la build del proyecto para que funcione
+
+-Dentro de la carpeta aplicaion crear 2 archivos de texto
+el primero llamado sudo y el otro llamado usuarios
